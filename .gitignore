@@ -1,4 +1,6 @@
+## Arquivos gerados pelo Visual Studio
+.vs/
 bin/
 obj/
-.vs/
 *.user
+*.suo
