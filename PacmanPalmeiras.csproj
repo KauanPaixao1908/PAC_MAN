@@ -3,10 +3,8 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
-    <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>PacVerdao</RootNamespace>
-    <AssemblyName>PacVerdao</AssemblyName>
+    <Nullable>disable</Nullable>
   </PropertyGroup>
 
 </Project>
