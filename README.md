@@ -13,7 +13,9 @@ grande final, e se ganhar a final o Palmeiras vira o maior time do universo.
 
 ### Como rodar
 
-Precisa do .NET 8. Na pasta do projeto (onde está o `Program.cs`):
+Precisa do .NET 8. O jeito mais fácil no Windows é dar dois cliques no `jogar.bat`.
+
+Ou pelo terminal, na pasta do projeto (onde está o `Program.cs`):
 
 ```
 dotnet run
