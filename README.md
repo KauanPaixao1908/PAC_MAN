@@ -48,11 +48,23 @@ Os rivais alternam entre "recuados" (cada um vai para seu canto) e "pressionando
 Requer o [SDK do .NET 8](https://dotnet.microsoft.com/download) e um terminal de
 pelo menos **80x24** caracteres (Windows Terminal, PowerShell, cmd, terminal do Linux/macOS).
 
+Jeito mais fácil: dê dois cliques em **`jogar.bat`** (Windows) ou rode **`./jogar.sh`**
+(Linux/macOS). Os scripts funcionam de qualquer pasta.
+
+Pelo terminal, **dentro da pasta onde estão `PacVerdao.sln` e a pasta `src`**:
+
 ```bash
 dotnet run --project src/PacVerdao
 ```
 
+Se aparecer *"O caminho do arquivo fornecido não existe: src/PacVerdao"*, o terminal
+está na pasta errada. Use `cd` até a pasta que contém `PacVerdao.sln` (ao descompactar
+no Windows às vezes fica uma pasta dentro da outra) ou use o `jogar.bat`.
+
+No Visual Studio: abra o `PacVerdao.sln` e aperte F5.
+
 Para treinar uma fase específica: `dotnet run --project src/PacVerdao -- --fase 5`
+(ou `jogar.bat --fase 5`).
 
 Para rodar os testes automatizados:
 
