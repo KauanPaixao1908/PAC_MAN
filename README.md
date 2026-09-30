@@ -23,7 +23,8 @@ Palmeiras vira o maior time do universo.
 ### Como jogar
 
 - **START / STOP:** começa, pausa e continua. Depois do fim de jogo, começa de novo.
-- **CIMA, BAIXO, ESQ, DIR:** mudam a direção do Palmeiras.
+- **Setas do teclado ( ^  ↓  <  > ):** mudam a direção do Palmeiras.
+- Os botões ^, ↓, <, > na tela fazem a mesma coisa com o mouse.
 - **SAIR:** fecha o jogo.
 
 ### Pontos

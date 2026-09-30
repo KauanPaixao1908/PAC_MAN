@@ -111,17 +111,17 @@
             // 
             this.lblMensagem.Location = new System.Drawing.Point(597, 100);
             this.lblMensagem.Name = "lblMensagem";
-            this.lblMensagem.Size = new System.Drawing.Size(190, 80);
+            this.lblMensagem.Size = new System.Drawing.Size(190, 70);
             this.lblMensagem.TabIndex = 6;
             this.lblMensagem.Text = "";
             // 
             // lblLegenda
             // 
-            this.lblLegenda.Location = new System.Drawing.Point(597, 185);
+            this.lblLegenda.Location = new System.Drawing.Point(597, 172);
             this.lblLegenda.Name = "lblLegenda";
-            this.lblLegenda.Size = new System.Drawing.Size(190, 95);
+            this.lblLegenda.Size = new System.Drawing.Size(190, 110);
             this.lblLegenda.TabIndex = 7;
-            this.lblLegenda.Text = "Verde = Palmeiras (você)\r\nAmarelo = taça da Libertadores\r\nLaranja = Abel Ferreira\r\nPreto = Corinthians\r\nVermelho = Flamengo\r\nBranco = São Paulo";
+            this.lblLegenda.Text = "Verde = Palmeiras (você)\r\nAmarelo = taça da Libertadores\r\nLaranja = Abel Ferreira\r\nPreto = Corinthians\r\nVermelho = Flamengo\r\nBranco = São Paulo\r\n\r\nMova com as setas: ^  ↓  <  >";
             // 
             // btnCima
             // 
@@ -129,7 +129,7 @@
             this.btnCima.Name = "btnCima";
             this.btnCima.Size = new System.Drawing.Size(60, 30);
             this.btnCima.TabIndex = 8;
-            this.btnCima.Text = "CIMA";
+            this.btnCima.Text = "^";
             this.btnCima.UseVisualStyleBackColor = true;
             this.btnCima.Click += new System.EventHandler(this.btnCima_Click);
             // 
@@ -139,7 +139,7 @@
             this.btnBaixo.Name = "btnBaixo";
             this.btnBaixo.Size = new System.Drawing.Size(60, 30);
             this.btnBaixo.TabIndex = 9;
-            this.btnBaixo.Text = "BAIXO";
+            this.btnBaixo.Text = "↓";
             this.btnBaixo.UseVisualStyleBackColor = true;
             this.btnBaixo.Click += new System.EventHandler(this.btnBaixo_Click);
             // 
@@ -149,7 +149,7 @@
             this.btnEsquerda.Name = "btnEsquerda";
             this.btnEsquerda.Size = new System.Drawing.Size(60, 30);
             this.btnEsquerda.TabIndex = 10;
-            this.btnEsquerda.Text = "ESQ";
+            this.btnEsquerda.Text = "<";
             this.btnEsquerda.UseVisualStyleBackColor = true;
             this.btnEsquerda.Click += new System.EventHandler(this.btnEsquerda_Click);
             // 
@@ -159,7 +159,7 @@
             this.btnDireita.Name = "btnDireita";
             this.btnDireita.Size = new System.Drawing.Size(60, 30);
             this.btnDireita.TabIndex = 11;
-            this.btnDireita.Text = "DIR";
+            this.btnDireita.Text = ">";
             this.btnDireita.UseVisualStyleBackColor = true;
             this.btnDireita.Click += new System.EventHandler(this.btnDireita_Click);
             // 

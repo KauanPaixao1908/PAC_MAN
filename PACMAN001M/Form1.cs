@@ -216,6 +216,33 @@ namespace PACMAN001M
             }
         }
 
+        //Setas do teclado: ^ cima, ↓ baixo, < esquerda, > direita
+        //(usa ProcessCmdKey porque os botões "pegam" as setas antes do KeyDown)
+        protected override bool ProcessCmdKey(ref Message msg, Keys keyData)
+        {
+            if (keyData == Keys.Up)
+            {
+                direcaoDesejada = 1;
+                return true;
+            }
+            if (keyData == Keys.Down)
+            {
+                direcaoDesejada = 2;
+                return true;
+            }
+            if (keyData == Keys.Left)
+            {
+                direcaoDesejada = 3;
+                return true;
+            }
+            if (keyData == Keys.Right)
+            {
+                direcaoDesejada = 4;
+                return true;
+            }
+            return base.ProcessCmdKey(ref msg, keyData);
+        }
+
         private void btnCima_Click(object sender, EventArgs e)
         {
             direcaoDesejada = 1;
