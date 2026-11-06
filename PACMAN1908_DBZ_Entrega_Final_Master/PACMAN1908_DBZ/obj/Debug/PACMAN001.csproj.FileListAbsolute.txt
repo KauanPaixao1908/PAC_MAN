@@ -1,0 +1,15 @@
+C:\Users\26002387\Downloads\PACMAN1908_DBZ\PACMAN1908_DBZ\obj\Debug\PACMAN001.csproj.AssemblyReference.cache
+C:\Users\26002387\Downloads\PACMAN1908_DBZ\PACMAN1908_DBZ\obj\Debug\PACMAN1908_DBZ.Form1.resources
+C:\Users\26002387\Downloads\PACMAN1908_DBZ\PACMAN1908_DBZ\obj\Debug\PACMAN001.Properties.Resources.resources
+C:\Users\26002387\Downloads\PACMAN1908_DBZ\PACMAN1908_DBZ\obj\Debug\PACMAN001.csproj.GenerateResource.cache
+C:\Users\26002387\Downloads\PACMAN1908_DBZ\PACMAN1908_DBZ\obj\Debug\PACMAN001.csproj.CoreCompileInputs.cache
+C:\Users\26002387\Downloads\PACMAN1908_DBZ_Entrega_Final_Master\PACMAN1908_DBZ\bin\Debug\PACMAN001.exe.config
+C:\Users\26002387\Downloads\PACMAN1908_DBZ_Entrega_Final_Master\PACMAN1908_DBZ\bin\Debug\PACMAN001.exe
+C:\Users\26002387\Downloads\PACMAN1908_DBZ_Entrega_Final_Master\PACMAN1908_DBZ\bin\Debug\PACMAN001.pdb
+C:\Users\26002387\Downloads\PACMAN1908_DBZ_Entrega_Final_Master\PACMAN1908_DBZ\obj\Debug\PACMAN001.csproj.AssemblyReference.cache
+C:\Users\26002387\Downloads\PACMAN1908_DBZ_Entrega_Final_Master\PACMAN1908_DBZ\obj\Debug\PACMAN001.Form1.resources
+C:\Users\26002387\Downloads\PACMAN1908_DBZ_Entrega_Final_Master\PACMAN1908_DBZ\obj\Debug\PACMAN001.Properties.Resources.resources
+C:\Users\26002387\Downloads\PACMAN1908_DBZ_Entrega_Final_Master\PACMAN1908_DBZ\obj\Debug\PACMAN001.csproj.GenerateResource.cache
+C:\Users\26002387\Downloads\PACMAN1908_DBZ_Entrega_Final_Master\PACMAN1908_DBZ\obj\Debug\PACMAN001.csproj.CoreCompileInputs.cache
+C:\Users\26002387\Downloads\PACMAN1908_DBZ_Entrega_Final_Master\PACMAN1908_DBZ\obj\Debug\PACMAN001.exe
+C:\Users\26002387\Downloads\PACMAN1908_DBZ_Entrega_Final_Master\PACMAN1908_DBZ\obj\Debug\PACMAN001.pdb
