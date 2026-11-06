@@ -1,0 +1,5 @@
+C:\Users\26002387\Downloads\PACMAN1908_DBZ\PACMAN1908_DBZ\obj\Debug\PACMAN001.csproj.AssemblyReference.cache
+C:\Users\26002387\Downloads\PACMAN1908_DBZ\PACMAN1908_DBZ\obj\Debug\PACMAN1908_DBZ.Form1.resources
+C:\Users\26002387\Downloads\PACMAN1908_DBZ\PACMAN1908_DBZ\obj\Debug\PACMAN001.Properties.Resources.resources
+C:\Users\26002387\Downloads\PACMAN1908_DBZ\PACMAN1908_DBZ\obj\Debug\PACMAN001.csproj.GenerateResource.cache
+C:\Users\26002387\Downloads\PACMAN1908_DBZ\PACMAN1908_DBZ\obj\Debug\PACMAN001.csproj.CoreCompileInputs.cache
